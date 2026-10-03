@@ -63,12 +63,12 @@
   var UI = {
     point_camera: {
       en: "📷 Point camera at Hiro marker",
-      zh_tw: "📷 將相機對準 Hiro 標記",
-      zh_cn: "📷 将相机对准 Hiro 标记",
+      zh_tw: "",
+      zh_cn: "",
     },
     appeared: {
       en: "✨ Wild {n} appeared!",
-      zh_tw: "✨ 野生的 {名} 出現了！",
+      zh_tw: "✨ 狂野的 {名} 出現了！",
       zh_cn: "✨ 野生的 {n} 出现了！",
     },
     loading_name: {
@@ -78,15 +78,15 @@
     },
     model_failed: {
       en: "❌ Model failed to load",
-      zh_tw: "❌ 模型載入失敗",
-      zh_cn: "❌ 模型加载失败",
+      zh_tw: "",
+      zh_cn: "",
     },
     spin_on: { en: "Spin ON", zh_tw: "旋轉 在", zh_cn: "旋转 开" },
     spin_off: { en: "Spin OFF", zh_tw: "旋轉 關", zh_cn: "旋转 关" },
     loading_title: {
       en: "Loading Pokémon AR…",
-      zh_tw: "正在載入 Pokémon AR…",
-      zh_cn: "正在加载 Pokémon AR…",
+      zh_tw: "正在載入 口袋妖怪 AR…",
+      zh_cn: "正在加载 口袋妖怪 AR…",
     },
     requesting_camera: {
       en: "Requesting camera…",
@@ -105,23 +105,23 @@
     },
     loading_3d: {
       en: "Loading 3D models…",
-      zh_tw: "正在載入 3D 模型…",
-      zh_cn: "正在加载 3D 模型…",
+      zh_tw: "",
+      zh_cn: "",
     },
     ready: {
       en: "Ready! Point camera at Hiro marker 📷",
-      zh_tw: "準備好了！對準 Hiro 標記 📷",
-      zh_cn: "准备好了！对准 Hiro 标记 📷",
+      zh_tw: "",
+      zh_cn: "",
     },
     drag_hint: {
       en: "👆 Drag to rotate model",
-      zh_tw: "👆 拖動以旋轉模型",
-      zh_cn: "👆 拖动以旋转模特",
+      zh_tw: "",
+      zh_cn: "",
     },
     photo_saved: {
       en: "📸 Photo captured!",
-      zh_tw: "📸 已拍照！",
-      zh_cn: "📸 已拍照！",
+      zh_tw: "",
+      zh_cn: "",
     },
     photo_save: { en: "💾 Save", zh_tw: "💾 拯救", zh_cn: "💾 保存" },
     photo_share: { en: "📤 Share", zh_tw: "📤 分享", zh_cn: "📤 分享" },
@@ -130,8 +130,8 @@
     capture: { en: "Capture", zh_tw: "拍照", zh_cn: "拍照" },
     photo_watermark: {
       en: "Caught with Pokémon AR",
-      zh_tw: "使用 Pokémon AR 捕捉",
-      zh_cn: "使用 Pokémon AR 捕捉",
+      zh_tw: "",
+      zh_cn: "",
     },
   };
 
